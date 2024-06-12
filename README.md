@@ -1,1 +1,1 @@
-# xG
+# xG - Summer project  (STARC)
